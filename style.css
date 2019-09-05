@@ -1,0 +1,16 @@
+#choices {
+  height: 5px;
+  width: 5px;
+  border: 1px solid purple;
+  cursor: pointer;
+}
+body {
+  background: pink;
+}
+
+
+#options {
+  width: 50%;
+  float: left;
+  border-right: solid 1px black;
+}
